@@ -15,9 +15,9 @@
 
 
 
-#### ⬇️开通了一个小站⬇️
+#### ⬇️开通了一个小站
 
-[![icon](https://raw.githubusercontent.com/Ariescat/ariescat.github.io/master/img/favicon.ico) **Ariescat‘s Blog**](https://github.ariescat.top) （ 如果在国内访问速度较慢，可以访问这个国内的节点：[**Ariescat‘s Blog**](http://ariescat.top) ）
+[<img src="https://raw.githubusercontent.com/Ariescat/ariescat.github.io/master/img/apple-touch-icon.png" alt="icon" style="max-width:100%;" height="18" width="18">  **Ariescat‘s Blog**](https://github.ariescat.top) （ 如果在国内访问速度较慢，可以访问这个国内的节点：[**Ariescat‘s Blog**](http://ariescat.top) ）
 
 
 
