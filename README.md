@@ -6,7 +6,7 @@
 
 
 
-##### 关于 我
+#### 关于 我
 
 九〇后，性别男，直男，爱好女。  
 有时文艺，有时严肃，有时逗比，怕生。  
@@ -15,11 +15,9 @@
 
 
 
-⬇️**开通了一个小站，欢迎来叨扰**⬇️
+##### ⬇️开通了一个小站，欢迎来叨扰⬇️
 
-[![icon](https://raw.githubusercontent.com/Ariescat/ariescat.github.io/master/img/favicon.ico) **Ariescat‘s Blog**](https://github.ariescat.top)
-
-如果在国内访问速度较慢，可以访问这个国内的节点：[**Ariescat‘s Blog**](http://ariescat.top)
+[![icon](https://raw.githubusercontent.com/Ariescat/ariescat.github.io/master/img/favicon.ico) **Ariescat‘s Blog**](https://github.ariescat.top) （如果在国内访问速度较慢，可以访问这个国内的节点：[**Ariescat‘s Blog**](http://ariescat.top) ）
 
 
 
