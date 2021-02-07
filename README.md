@@ -11,13 +11,13 @@
 九〇后，性别男，直男，爱好女。  
 有时文艺，有时严肃，有时逗比，怕生。  
 有时候看书，喜欢折腾一些东西。  
-现在是一个普通人。
+现在是一个废物。
 
 
 
 #### ⬇️开通了一个小破站
 
-[<img src="https://ariescat.top/img/apple-touch-icon.png" alt="icon" style="max-width:100%;" height="18" width="18">  **Ariescat‘s Blog**](https://ariescat.top)
+📝 **[Ariescat‘s Blog](https://ariescat.top)**
 
 
 
