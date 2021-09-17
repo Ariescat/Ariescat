@@ -21,9 +21,9 @@
 
 
 
-#### 搭建了 一份Awesome
+#### 踏上编程的不归路后 学习并记录了 一份Awesome
 
-📝 **[Ariescat‘s Awesome](https://awesome.ariescat.top/)**
+🧸 **[Ariescat‘s Awesome](https://awesome.ariescat.top/)**
 
 
 
