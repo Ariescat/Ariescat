@@ -13,6 +13,8 @@
 有时候看书，喜欢折腾一些东西。  
 现在是一个废物。
 
+这是在下的首页 &nbsp; **[Ariescat‘s Home](https://home.ariescat.top/)**
+
 
 
 #### 开通了 一个小破站
