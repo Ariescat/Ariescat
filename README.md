@@ -17,7 +17,7 @@
 
 #### 开通了 一个小破站 偶尔想起来会写点东西吧
 
-📝 &nbsp; **[Ariescat‘s Blog](https://home.ariescat.top)**
+📝 &nbsp; **[Ariescat‘s Blog](https://ariescat.top)**
 
 
 
