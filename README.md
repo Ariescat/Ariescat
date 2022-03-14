@@ -21,9 +21,9 @@
 
 
 
-#### 踏上编程的不归路后 学习并记录了 一份Awesome
+#### 踏上编程的不归路后 记录并整理了 一份Notes
 
-📖 &nbsp; **[Ariescat‘s Awesome](https://awesome.ariescat.top/)**
+📖 &nbsp; **[Ariescat‘s Notes](https://awesome.ariescat.top/)**
 
 
 
