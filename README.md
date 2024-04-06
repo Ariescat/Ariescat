@@ -9,21 +9,21 @@
 #### 关于 我
 
 九〇后，性别男，直男，爱好女。  
-有时文艺，有时逗比，乐观，怕生。  
+有时文艺，有时逗比，乐观。  
 有时候看书，喜欢折腾一些东西。  
-现在躺平，是一个废物。
-
-
-
-#### 开通了 一个小破站 偶尔想起来会写点东西吧
-
-📝 &nbsp; **[Ariescat‘s Blog](https://ariescat.top)**
+现在躺平，可能是一个废物。
 
 
 
 #### 踏上编程的不归路后 记录并整理了 一份Notes
 
 📖 &nbsp; **[Ariescat‘s Notes](https://awesome.ariescat.top/)**
+
+
+
+#### 开通了 一个小破站 偶尔想起来会写点东西吧（很久没更新了）
+
+📝 &nbsp; **[Ariescat‘s Blog](https://ariescat.top)**
 
 
 
