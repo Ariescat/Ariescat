@@ -17,13 +17,13 @@
 
 #### 踏上编程的不归路后 记录并整理了 一份Notes
 
-📖 &nbsp; **[Ariescat‘s Notes](https://awesome.ariescat.top/)**
+📖 &nbsp; **<a href="https://awesome.ariescat.top/" rel="nofollow" target="_blank">Ariescat's Notes</a>**
 
 
 
 #### 开通了 一个小破站 偶尔想起来会写点东西吧（很久没更新了）
 
-📝 &nbsp; **[Ariescat‘s Blog](https://ariescat.top)**
+📝 &nbsp; **<a href="https://ariescat.top" rel="nofollow" target="_blank">Ariescat's Blog</a>**
 
 
 
